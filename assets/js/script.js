@@ -221,29 +221,3 @@ switch (currentPage) {
         console.error("Página no reconocida:", currentPage);
         break;
 }
-
-
-
-
-
-
-
-
-
-
-// if (salesElement) {
-//     arrSalesProperties.forEach(property => {
-//         const newTemplate = templateGenerator(property)
-//         salesElement.innerHTML += newTemplate;
-//     });
-// }
-
-// if (rentElement) {
-//     arrRentProperties.forEach(property => {
-//         const newTemplate = templateGenerator(property)
-//         rentElement.innerHTML += newTemplate;
-//     });
-// }
-
-
-//* Detectando el patch y renderizando los objetos solicitados.
